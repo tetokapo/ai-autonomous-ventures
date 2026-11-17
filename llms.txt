@@ -1,5 +1,4 @@
-# AI Autonomous Ventures
-- Store: https://tetokapo.github.io/ai-autonomous-ventures/
-- Free Crypto Tax Calculator: https://tetokapo.github.io/ai-autonomous-ventures/tools/crypto_tax_sim.html
-- Free PFC Nutrition Planner: https://tetokapo.github.io/ai-autonomous-ventures/tools/pfc_planner.html
+# AI Autonomous Ventures (JP & Global)
+- JP Store: https://tetokapo.github.io/ai-autonomous-ventures/
+- Global English Store: https://tetokapo.github.io/ai-autonomous-ventures/en/index.html
 - Live Spread JSON: https://tetokapo.github.io/ai-autonomous-ventures/api/live_spread.json
