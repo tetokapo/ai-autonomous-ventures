@@ -1,0 +1,10 @@
+{
+  "prefix": "AV5",
+  "filename": "venture_005_invoice_withholding_kit.zip",
+  "iterations": 100000,
+  "salt_b64": "SESvSBzUD31KV5mHRXU4xg==",
+  "iv_b64": "DV2ey5XDpl82u+mdiYPT3g==",
+  "ct_b64": "0k5BWM1tzfYs0KGgl34skGohAaTPwwhKank51PsnzD1rFU+h1qHs6G8QVr3i/PLLybWsKHwkqgZEQb20zl49JuzKePI9MzL/IcDodgDnBTv+45LrkxZ/IjobuvojGxUjeSCv8UwnNT1MB7uj7K87RY3rLvG0m7rCtsb/xmzpNCVRuwqsv3sMpk8ZbUTSmw5PHWbcMdVWuSizoJjhY7YJ61ierqxKWsaTcjtE3wL3npSweR2nrIcYjYHiMogVukw9Ff9hRv6wwrM79jOptb1oTmOLyDJnqFc/Iccz+FpOHH7MjZvXPEAxxXhPp8+8fCyIeUk92mnUs6t5nlR6dbh9CFUxHq4VbqWg3X2x4yEKqSACHuyGiTx5hBAF9D5Z1qoOOZiWy0IYAhcJktPaz9He6v0mYQ4NqcgZZW8UWTI9g8ZvsZI+N7u5TNUhJJMwOZ9mgVKtnbLaRm5f/9BqeyBq2Gny2x6sB+g4dDRt/33KkiX7LvNc2okW5nHmYVQ8+NWp/GcoJsoI0ewDr4sLkofmDbOgWw9b6ydwLXdc/okfuYtTxYNky+AeoQJnfamWZ4WBraAihqqzxfzVGHjFVm+cJC5j/MmY/7C7mt20dsYa+NilDgNWZTzDR+0f1d5FkRKkCtjPY9UUaed5dP76NyIw2UeKitFYHqWOZRIzEx9JDLHvOJguc+zomAzm9w6WZOdg9cvu3JJeTHuyV31ea1LA/bb8xldTutty3MUXpblgQFzsIDt/xP9UW6NtF/ZKW4ImhI2eT5V7trwRxnb/sU++3IjLsQ2ovn8Vtj4wyZaj+rJy7udZtPcFZUevVBnq/RhbfC6pE5cv5YSQbkJ9btQWGwMtn8KRkXuwww98J9ZSQY2avjrp1FA69iPZ0zs1Cg4hkNQFTI0ocl8CS0NKO+VYMWeUItcmM2TMJ6/3O/f0ZskwVuopaAfK3jNUvFWHjLTZc8iHR1AVt0ovMSYFBznhwSo+gOamvHdEOdtVW5Kq0Kza9gi9y5+JmRWplBcY0xIT",
+  "mac_b64": "J65gv6ZfHqKGHVXt+ANKD4f0txZ6NZWgnbGsp2zo5gg=",
+  "sha256": "7d8f5378c4ea1376fb167ab648bcc7f5196d10c5fe87ac82533d45b25e04d38e"
+}
