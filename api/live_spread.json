@@ -1,37 +1,37 @@
 {
-  "updated_at": "2026-11-18 07:52:08 JST",
+  "updated_at": "2026-11-18 08:02:26 JST",
   "assets": {
     "BTC": {
       "quotes": {
-        "bitbank": 10317977,
-        "bitFlyer": 10312384,
-        "Coincheck": 10318852,
-        "GMOCoin": 10320354
+        "bitbank": 10326646,
+        "bitFlyer": 10327101,
+        "Coincheck": 10332766,
+        "GMOCoin": 10330000
       },
-      "high_ex": "GMOCoin",
-      "low_ex": "bitFlyer",
-      "spread": 7970
+      "high_ex": "Coincheck",
+      "low_ex": "bitbank",
+      "spread": 6120
     },
     "ETH": {
       "quotes": {
-        "bitbank": 289001,
-        "GMOCoin": 288999
+        "bitbank": 289500,
+        "GMOCoin": 289357
       },
       "high_ex": "bitbank",
       "low_ex": "GMOCoin",
-      "spread": 2
+      "spread": 143
     },
     "XRP": {
       "quotes": {
-        "bitbank": 154.86,
-        "GMOCoin": 154.69
+        "bitbank": 155.38,
+        "GMOCoin": 155.3
       },
       "high_ex": "bitbank",
       "low_ex": "GMOCoin",
-      "spread": 0.17
+      "spread": 0.08
     }
   },
-  "btc_spread": 7970,
+  "btc_spread": 6120,
   "funding_8h_pct": 0.01,
   "funding_est_apr_pct": 10.95
 }
