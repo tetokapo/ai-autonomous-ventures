@@ -1,4 +1,9 @@
 {
+  "AVB": {
+    "code": "VENTURE-BUNDLE",
+    "title": "【全5製品一括パック】All-Access Master Bundle（個別合計より大幅割引）",
+    "vault": "vault/venture_bundle.enc.json"
+  },
   "AV1": {
     "code": "VENTURE-001",
     "title": "国内4取引所スプレッド監視＆通知キット V1",
@@ -18,5 +23,10 @@
     "code": "VENTURE-004",
     "title": "暗号資産ファンディング金利・年換算利回り＆ヘッジコスト計算キット V1",
     "vault": "vault/venture_004.enc.json"
+  },
+  "AV5": {
+    "code": "VENTURE-005",
+    "title": "インボイス2割特例・源泉徴収10.21%逆算フリーランス請求計算キット V1",
+    "vault": "vault/venture_005.enc.json"
   }
 }
