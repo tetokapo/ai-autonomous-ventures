@@ -1,0 +1,22 @@
+{
+  "AV1": {
+    "code": "VENTURE-001",
+    "title": "国内4取引所スプレッド監視＆通知キット V1",
+    "vault": "vault/venture_001.enc.json"
+  },
+  "AV2": {
+    "code": "VENTURE-002",
+    "title": "暗号資産の手取り・総合課税シミュレーター＆CSV集計キット V1",
+    "vault": "vault/venture_002.enc.json"
+  },
+  "AV3": {
+    "code": "VENTURE-003",
+    "title": "パーソナルPFC栄養収支・TDEE＆習慣KPI自動設計キット V1",
+    "vault": "vault/venture_003.enc.json"
+  },
+  "AV4": {
+    "code": "VENTURE-004",
+    "title": "暗号資産ファンディング金利・年換算利回り＆ヘッジコスト計算キット V1",
+    "vault": "vault/venture_004.enc.json"
+  }
+}
